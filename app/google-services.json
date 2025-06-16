@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "322168854586",
+    "project_id": "fot-news-d434b",
+    "storage_bucket": "fotwave-a1698.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322168854586:android:415aa5f5fb1257d8cf3d03",
+        "android_client_info": {
+          "package_name": "com.assignment.fotwavenewsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsgHfWdqQ9xO_g-XViA-JisQZL7LTrQ38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322168854586:android:5763d9e3616a5db4cf3d03",
+        "android_client_info": {
+          "package_name": "com.assingment.fotnews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsgHfWdqQ9xO_g-XViA-JisQZL7LTrQ38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
